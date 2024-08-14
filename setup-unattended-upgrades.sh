@@ -6,7 +6,7 @@ sudo apt update && sudo apt upgrade -y
 
 # Install unattended-upgrades and related packages
 echo "Installing unattended-upgrades and related packages..."
-sudo apt install -y unattended-upgrades apt-listchanges bsd-mailx
+sudo apt install -y unattended-upgrades apt-listchanges
 
 # Enable unattended security updates
 echo "Enabling unattended security updates..."
