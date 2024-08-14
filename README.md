@@ -17,7 +17,7 @@ This repository provides a simple shell script to automate the installation and 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/unattended-upgrades-script.git
+git clone https://github.com/benzntech/unattended-upgrades-script.git
 cd unattended-upgrades-script
 ```
 
@@ -35,7 +35,7 @@ sudo ./setup-unattended-upgrades.sh
 If you prefer, you can download and execute the script directly from GitHub:
 
 ```bash
-curl https://raw.githubusercontent.com/your-username/unattended-upgrades-script/main/setup-unattended-upgrades.sh | sudo bash -s -
+curl https://raw.githubusercontent.com/benzntech/unattended-upgrades-script/main/setup-unattended-upgrades.sh | sudo bash -s -
 ```
 
 ## Script Details
