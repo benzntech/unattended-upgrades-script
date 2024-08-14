@@ -1,6 +1,6 @@
 ### `README.md`
 
-```markdown
+
 # Unattended Upgrades Setup Script
 
 This repository provides a simple shell script to automate the installation and configuration of unattended security updates on Ubuntu 20.04 LTS servers. The script performs the following actions:
