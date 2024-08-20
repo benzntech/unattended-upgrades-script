@@ -10,7 +10,7 @@ sudo apt install -y unattended-upgrades apt-listchanges
 
 # Enable unattended security updates
 echo "Enabling unattended security updates..."
-sudo dpkg-reconfigure -plow unattended-upgrades
+sudo dpkg-reconfigure -f noninteractive unattended-upgrades
 
 # Verify that unattended upgrades are configured correctly
 echo "Verifying unattended upgrades configuration..."
